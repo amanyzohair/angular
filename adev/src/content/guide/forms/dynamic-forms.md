@@ -141,3 +141,4 @@ The following figure shows the final form.
   <docs-pill title="Validating form input" href="guide/forms/reactive-forms#validating-form-input" />
   <docs-pill title="Form validation guide" href="guide/forms/form-validation" />
 </docs-pill-row>
+
